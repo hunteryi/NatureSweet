@@ -1,0 +1,5 @@
+    {
+        "request": "GET",
+        "url": "http://localhost:8080/v1/api/book/0123",
+        "data": null
+    }
