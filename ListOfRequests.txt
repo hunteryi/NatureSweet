@@ -1,0 +1,17 @@
+[
+    {
+        "request": "GET",
+        "url": "http://localhost:8080/v1/api/book/0123",
+        "data": null
+    },
+    {
+        "request": "POST",
+        "url": "http://localhost:8080/v1/api/book",
+        "data": "{\"isbn\": \"0123\",\"name\": \"The Lord Of The Rings\",\"author\": \"Tolkien, J.R.R.\",\"description\": \"A great story ...\",\"price\": 19.99,\"quantity\": 2}"
+    },
+    {
+        "request": "GET",
+        "url": "http://localhost:8080/v1/api/book/0123",
+        "data": null
+    }
+]
